@@ -1,3 +1,7 @@
+> **Disclaimer:** This is an independent portfolio project for learning purposes. 
+> It is not affiliated with, endorsed by, or representative of Haleon PLC. 
+> Product names are used as realistic examples in a simulated business scenario.
+
 # 🏥 Haleon Demand Sensing Pipeline
 
 [![GitHub](https://img.shields.io/badge/GitHub-LuthandoMzoboshe-blue?logo=github)](https://github.com/LuthandoMzoboshe/haleon-demand-sensing)
