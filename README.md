@@ -1,6 +1,15 @@
 # 🏥 Haleon Demand Sensing Pipeline
 
-Predicting consumer healthcare product demand using external market signals.
+[![GitHub](https://img.shields.io/badge/GitHub-LuthandoMzoboshe-blue?logo=github)](https://github.com/LuthandoMzoboshe/haleon-demand-sensing)
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+[![Data Quality](https://img.shields.io/badge/Quality%20Tests-6%2F6%20Passing-brightgreen.svg)]()
+[![Airflow](https://img.shields.io/badge/Airflow-2.8.0-orange.svg)](https://airflow.apache.org/)
+
+> **AI-Assisted Data Engineering Portfolio Project**  
+> Predicting consumer healthcare product demand using external market signals
+
+**Author:** Luthando Mzoboshe  
+**Project Link:** [github.com/LuthandoMzoboshe/haleon-demand-sensing](https://github.com/LuthandoMzoboshe/haleon-demand-sensing)
 
 ## Problem Statement
 Consumer healthcare products experience unpredictable demand spikes driven by weather changes, flu outbreaks, and search trends. Stockouts cost millions; overstocking leads to waste.
