@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Haleon Demand Sensing - Interactive Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+        }
+        .container {
+            text-align: center;
+            padding: 40px;
+            max-width: 800px;
+        }
+        h1 { font-size: 3em; margin-bottom: 20px; }
+        p { font-size: 1.2em; margin-bottom: 30px; opacity: 0.9; }
+        .btn {
+            display: inline-block;
+            padding: 15px 40px;
+            background: white;
+            color: #667eea;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: bold;
+            font-size: 1.1em;
+            transition: transform 0.3s;
+            margin: 10px;
+        }
+        .btn:hover { transform: scale(1.05); }
+        .btn-secondary {
+            background: transparent;
+            border: 2px solid white;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏥 Haleon Demand Sensing</h1>
+        <p>AI-powered demand forecasting pipeline for consumer healthcare products</p>
+        <p>Predicting stockouts 7-14 days in advance using external market signals</p>
+        <a href="dashboards/haleon_dashboard.html" class="btn">📊 View Interactive Dashboard</a>
+        <a href="https://github.com/LuthandoMzoboshe/haleon-demand-sensing" class="btn btn-secondary">💻 View Code on GitHub</a>
+    </div>
+</body>
+</html>
