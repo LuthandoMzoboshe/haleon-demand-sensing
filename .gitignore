@@ -1,0 +1,17 @@
+.env
+venv/
+env/
+*.pyc
+__pycache__/
+data/raw/*
+data/bronze/*
+data/silver/*
+data/gold/*
+!data/*/.gitkeep
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+airflow/logs/
+airflow.db
+airflow.cfg
