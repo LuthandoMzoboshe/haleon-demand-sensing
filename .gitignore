@@ -15,3 +15,11 @@ data/gold/*
 airflow/logs/
 airflow.db
 airflow.cfg
+
+# Airflow runtime
+airflow/*.pid
+airflow/*.log
+airflow/*.err
+airflow/*.out
+airflow/airflow.db
+airflow/logs/
